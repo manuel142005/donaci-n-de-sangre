@@ -1,0 +1,11 @@
+Desarrollo de un software en java que mejore la gestión de donantes y mejore la disponibilidad de sangre en los centros hospitalarios, en Cartagena
+
+Integrantes: 
+
+Luis Miranda
+Jose Orozco
+Santiago perez
+Barbara Valencia 
+
+
+
